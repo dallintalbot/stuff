@@ -1,0 +1,53 @@
+---
+title: "Task 2"
+format: ##
+  html:
+    code-fold: true
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+plot(1:20)
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+
+What is unique or good about the visualization? List a few ideas.
+What could be better? Identify at least one issue with the visualization.
+
+
+https://pudding.cool/2022/08/censorship/
+
+The visualization does a great job conveing lots of information quickly.  It is color coded so its easy to read and it looks very good as it transitinos and changes as the article goes on.  It's really cool as the design shows so much, bars for edited episodes and blanks for those left alone and the colorerd bars length shows length of censorship.  The beginning was confusing to me, it seemed like a lot of wierd lines until it started making sense. They could have better communicated a visualizaiton was starting and would make more sense later.
+
+
+https://ourworldindata.org/less-democratic
+
+The visualizaiton was very impressive as it showed 4 types of goverments and how many of each there was from 1789 to now.  Watching it was very entertaining but at the same time, drastic shifts and patterns could be matched to different periods of time.  Then to highlight that things are usually not simple, they have a similar graph but its population in goverments instead of countires, showing great contrast and raising more curiosity about what is going on.
+
+
+https://priceonomics.com/how-has-cryptocurrency-mining-influenced-gpu-prices/
+
+Conveys lots of data clearly over time.  good colors that don't clash and everything is labled and easy to read.I dont see graphs with axis titles on 3 differnt sides very often, lots of info in just one graph.  Another one of the graphs had too many colors and information on it and it needed some cleaning to make it easier to read.
+
+
+
+
+
+
+
